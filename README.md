@@ -1,12 +1,9 @@
-# Wallets
+# This is a fork of the Graphcoin github
 
-https://github.com/Graphcoin/downloads
+This is done to correct the problem with
+the stagnant blockchain. 
 
-Wallet Masternode Setup Guides https://github.com/Graphcoin/downloads/wiki
 
-RPC Port : 22617
-
-P2P Port : 22629
-
-Explorer : http://explorer.graphcoin.net
-
+To use the wallet, you need to git clone this, and 
+follow the directions in the doc folder, to
+build the new wallet. 
