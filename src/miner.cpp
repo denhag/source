@@ -637,8 +637,6 @@ void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
         //
         // Create new block
         //
-        LogPrintf("Create new block");
-
         unsigned int nTransactionsUpdatedLast = mempool.GetTransactionsUpdated();
         CBlockIndex* pindexPrev = chainActive.Tip();
         if (!pindexPrev)
